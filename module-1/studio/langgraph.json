@@ -1,0 +1,15 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "simple_graph": "./simple.py:graph",
+    "router": "./router.py:graph",
+    "agent": "./agent.py:graph",
+    "simple_salma": "./simple_salma.py:graph",
+    "react_salma": "./react_salma.py:s"
+  },
+  "env": "./.env.example",
+  "python_version": "3.11",
+  "dependencies": [
+    "."
+  ]
+}
